@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 The 2by2 Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Home settings -->
+    <string name="launcher_keyguard_settings_title">ホーム画面の設定</string>
+    <string name="launcher_keyguard_settings_summary">Trebuchet ランチャーをカスタマイズします</string>
+    <string name="gesture_preference_summary">ジェスチャーとキーを使用して、よく使う機能をすばやく開きます</string>
+    <!-- Cycle through ringer modes gesture -->
+    <string name="prevent_ringing_option_cycle">サイクルスルーモード</string>
+    <string name="prevent_ringing_option_cycle_summary">ON（サイクルスルーモード）</string>
+    <!-- Use as Screenshot key combo -->
+    <string name="gesture_prevent_ringing_screenshot_switch_title">マナーモードの代わりにスクリーンショットとして使用</string>
+    <string name="gesture_prevent_ringing_screenshot_switch_summary">この設定がオンになっている場合、ジェスチャーによるマナーモードの切り替えはご利用いただけません</string>
+</resources>

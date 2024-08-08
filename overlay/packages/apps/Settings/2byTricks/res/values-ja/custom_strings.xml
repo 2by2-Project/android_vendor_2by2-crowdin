@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 The 2by2 Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- 2byTricks -->
+    <string name="custom_dashboard_title">2byTricks</string>
+    <!-- Categories -->
+    <string name="about_title">ROM の詳細</string>
+    <string name="about_summary">2by2 Project について</string>
+    <!-- About -->
+    <string name="about_info">2by2 Projectは、主に日本人向けにフォーカスされたカスタムROMです。私たちはLineageOSに基づきクリーンなAOSP体験、追加機能、そして日本を意識した機能やアプリなどを搭載しています。</string>
+    <string name="about_website_title">ホームページ</string>
+    <string name="about_website_summary">2by2 Project のホームページに移動します</string>
+    <string name="about_instagram_summary">2by2 Project 公式 Instagram を開きます</string>
+    <string name="about_telegram_summary">2by2 Project コミュニティ Telegram チャットを開きます</string>
+    <string name="about_github_summary">Github のソースコードを表示します</string>
+    <string name="about_contributors_title">2by2 Project チーム</string>
+</resources>
