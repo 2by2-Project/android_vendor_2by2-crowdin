@@ -17,35 +17,35 @@
     <!-- Application name -->
     <!-- Settings -->
     <!-- Edit workspace -->
-    <string name="settings_lock_layout_title">Lock layout</string>
-    <string name="settings_lock_layout_summary_on">Icons and widgets can\'t be added, removed and moved on the homescreen</string>
-    <string name="settings_lock_layout_summary_off">Icons and widgets can be added, removed and moved on the homescreen</string>
-    <string name="settings_edit_widgets_error">It\'s not possible to add widgets to the home screen</string>
+    <string name="settings_lock_layout_title">ホーム画面の配置をロック</string>
+    <string name="settings_lock_layout_summary_on">アイコンやウィジェットの追加、削除、移動はできません</string>
+    <string name="settings_lock_layout_summary_off">アイコンやウィジェットの追加、削除、移動が可能です</string>
+    <string name="settings_edit_widgets_error">ウィジェットをホーム画面に追加できません</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Show Google app</string>
+    <string name="title_show_google_app">Google Discover を表示する</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe right from main home screen</string>
+    <string name="msg_minus_one_on_left">ホーム画面の最初のページから右にスワイプして Google Discover を表示します</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe left from main home screen</string>
+    <string name="msg_minus_one_on_right">ホーム画面の最初のページから左にスワイプして Google Discover を表示します</string>
     <!-- Folder titles -->
     <!-- All apps themed icons -->
-    <string name="pref_themed_icons_title">Use themed icons in drawer</string>
-    <string name="pref_themed_icons_summary">Follow themed icons used on home screen</string>
+    <string name="pref_themed_icons_title">アプリ一覧でテーマアイコンを適用</string>
+    <string name="pref_themed_icons_summary">「すべてのアプリ」ページでテーマアイコン機能を有効にします</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Show icon labels on desktop</string>
-    <string name="drawer_show_labels">Show icon labels in drawer</string>
+    <string name="desktop_show_labels">ホーム画面のアイコンラベルの表示</string>
+    <string name="drawer_show_labels">アプリ一覧のアイコンラベルの表示</string>
     <!-- Trust apps -->
-    <string name="trust_apps_manager_name">Hidden &amp; Protected apps</string>
-    <string name="trust_apps_auth_manager">Unlock to manage the hidden and protected apps</string>
-    <string name="trust_apps_auth_open_app">Authenticate to open %1$s</string>
-    <string name="trust_apps_loading">Loading\u2026</string>
-    <string name="trust_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
-    <string name="trust_apps_help">Help</string>
-    <string name="trust_apps_info_hidden">Hidden apps and their widgets are hidden from the drawer</string>
-    <string name="trust_apps_info_protected">Protected apps require authentication to be opened from the launcher</string>
+    <string name="trust_apps_manager_name">非表示 &amp; 保護アプリ</string>
+    <string name="trust_apps_auth_manager">ロック解除して非表示および保護されたアプリを管理する</string>
+    <string name="trust_apps_auth_open_app">認証して %1$s を開く</string>
+    <string name="trust_apps_loading">読み込み中\u2026</string>
+    <string name="trust_apps_no_lock_error">アプリのアクセスを制限するために画面ロックを設定してください</string>
+    <string name="trust_apps_help">ヘルプ</string>
+    <string name="trust_apps_info_hidden">非表示アプリとそのウィジェットはドロワーから非表示になります</string>
+    <string name="trust_apps_info_protected">保護されたアプリをランチャーから開くためには認証が必要です</string>
     <!-- App suggestions -->
-    <string name="pref_suggestions_title">Suggestions</string>
-    <string name="pref_suggestions_summary">For app drawer &amp; home screen suggestions</string>
+    <string name="pref_suggestions_title">よく使うアプリの候補</string>
+    <string name="pref_suggestions_summary">アプリ一覧やホーム画面でよく使うアプリを表示します</string>
     <!-- Gestures -->
     <string name="pref_dt_gesture_title">画面をダブルタップでスリープ</string>
     <string name="pref_dt_gesture_summary">ホーム画面の空白部分をダブルタップして画面をスリープモードにします</string>
