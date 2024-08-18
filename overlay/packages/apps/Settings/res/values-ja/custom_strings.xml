@@ -14,4 +14,7 @@
     <!-- Use as Screenshot key combo -->
     <string name="gesture_prevent_ringing_screenshot_switch_title">マナーモードの代わりにスクリーンショットとして使用</string>
     <string name="gesture_prevent_ringing_screenshot_switch_summary">この設定がオンになっている場合、ジェスチャーによるマナーモードの切り替えはご利用いただけません</string>
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">スワイプでスクリーンショット</string>
+    <string name="three_finger_gesture_summary">3 本の指で下にスワイプしてスクリーンショットを撮影します</string>
 </resources>
